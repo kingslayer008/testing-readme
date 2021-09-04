@@ -5,7 +5,7 @@
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
-## TABLES
+## tables
 
 First Header | Second Header
 ------------ | -------------
