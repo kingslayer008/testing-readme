@@ -1,3 +1,8 @@
 # testing-readme
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
